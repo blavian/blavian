@@ -3,19 +3,16 @@
 
 
  
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=blavian&show_icons=true&theme=shades-of-purple" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blavian&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
 
-  [![Beny's github stats](https://github-readme-stats.vercel.app/api?username=blavian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/blavian) />
 
-</details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Beny's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blavian" />
 
-</details>
+
+
 
 <!--
 **blavian/blavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +27,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
