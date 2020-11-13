@@ -6,14 +6,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Beny's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blavian&show_icons=true&hide_border=true" />
+  [![Beny's github stats](https://github-readme-stats.vercel.app/api?username=blavian&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/blavian) />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Beny's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Beny's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blavian" />
 
 </details>
 
