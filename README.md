@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on learning Javascript,Python, Sql, React, Express
-<br />
-<br />
+- 🔭 I’m currently attending AppAcademy learning JavaScript, Python, React, AJAX, SQL, Express
+
 
  
 <details>
