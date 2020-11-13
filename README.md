@@ -4,9 +4,8 @@
 
  
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=blavian&show_icons=true&theme=shades-of-purple" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blavian&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=blavian&show_icons=true&theme=shades-of-purple" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blavian&layout=compact&theme=shades-of-purple" alt="languages" height="165">
 </p>
-
 
 
 
@@ -27,5 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 -->
