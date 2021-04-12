@@ -1,6 +1,6 @@
 # <div align="center"> Hi, I am Benjamin Lavian</div>
 - 🔭 I’m currently looking for a job as a software developer. 
-- - 🔭 I’m currently working on refining my previous projects
+-  🔭 I’m currently working on refining my previous projects
 - 🌱 I’m currently learning  React Native
 
 
