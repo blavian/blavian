@@ -1,4 +1,7 @@
 # <div align="center"> Hi, I am Benjamin Lavian</div>
+
+![Profile views](https://views.whatilearened.today/views/github/blavian/views.svg)
+
 - 🔭 I’m currently looking for a job as a software developer. 
 -  🔭 I’m currently working on refining my previous projects
 - 🌱 I’m currently learning  React Native
