@@ -5,12 +5,9 @@
 - 🔭 I’m currently looking for a job as a software developer. 
 -  🔭 I’m currently working on refining my previous projects
 - 🌱 I’m currently learning  React Native
-
-
-
 - ⚡ Fun fact: I am a Licensed Nursing Home administrator and a Marriage and Family Therapist.
 
-### Languages
+### <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="HTML" height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS" height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" height ="30px" width="30px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
