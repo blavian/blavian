@@ -8,7 +8,10 @@
 - ⚡ Fun fact: I am a Licensed Nursing Home administrator and a Marriage and Family Therapist.
 
 ## Connect with Me
+<p align="left">
+<img align="center" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-lavian/"  alt="Linkedin"  />
 
+</p>
 
 ## Languages and Tools
 <img align="left" alt="HTML" height ="30px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
