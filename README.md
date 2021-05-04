@@ -9,7 +9,11 @@
 
 ## Connect with Me
 <p align="left">
-<img align="center" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-lavian/"  alt="Linkedin"  />
+ 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-lavian/)](https://www.linkedin.com/in/benjamin-lavian/)
+
+
 
 </p>
 
