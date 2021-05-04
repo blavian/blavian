@@ -1,4 +1,4 @@
-# <div align="center"> Hi, I am Benjamin Lavian</div>
+# <div align="center"> Hi Hi  👋   I'm Benjamin Lavian</div>
 
 ![Profile views](https://views.whatilearened.today/views/github/blavian/views.svg)
 
