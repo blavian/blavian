@@ -4,16 +4,15 @@
 
 - 🔭 I’m currently looking for a job as a software developer. 
 -  🔭 I’m currently working on refining my previous projects
-- 🌱 Checkout out my [Portfolio](https://blavian.github.io) 
+- 🌱 Checkout my [Portfolio](https://blavian.github.io) 
 - ⚡ Fun fact: I am a Licensed Nursing Home administrator and a Marriage and Family Therapist.
 
 ## Connect with Me
 <p align="left">
  
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-lavian/)](https://www.linkedin.com/in/benjamin-lavian/)
-
-
+[![Gmail](https://img.shields.io/badge/-benylavian@gmail.com-ffffff?style=flat-square&logo=gmail&logoColor=red&link=mailto:benylavian@gmail.com)](mailto:benylavian@gmail.com)
+[![AngelList](https://img.shields.io/badge/-AngelList-000?style=flat-square&logo=AngelList&logoColor=white&link=https://angel.co/u/benjamin-lavian)](https://angel.co/u/benjamin-lavian) 
 
 </p>
 
