@@ -2,8 +2,7 @@
 
 ![Profile views](https://views.whatilearened.today/views/github/blavian/views.svg)
 
-- 🔭 I’m currently looking for a job as a software developer. 
--  🔭 I’m currently learning Java
+- 🔭 I’m working as a Product Support Engineer. 
 - 🌱 Checkout my [Portfolio](https://blavian.github.io) 
 - ⚡ Fun fact: I am a Licensed Nursing Home administrator and a Marriage and Family Therapist.
 
