@@ -2,9 +2,9 @@
 
 ![Profile views](https://views.whatilearened.today/views/github/blavian/views.svg)
 
-- 🔭 I’m working as a Product Support Engineer. 
+- 🔭 I’m working as a Site Reliability Engineer. 
 - 🌱 Checkout my [Portfolio](https://blavian.github.io) 
-- ⚡ Fun fact: I am a Licensed Nursing Home administrator and a Marriage and Family Therapist.
+- ⚡ Fun fact: I am a Licensed Nursing Home Administrator and a Marriage and Family Therapist.
 
 ## Connect with Me
 <p align="left">
